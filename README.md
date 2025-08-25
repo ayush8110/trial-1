@@ -1,4 +1,4 @@
 # trial-1
 practice
 <br />
-Author - ayush haldankar 
+Author - ayush haldankar (aspiring developer)
